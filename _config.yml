@@ -1,17 +1,14 @@
 # Site settings
 title: HakimJ / Dev
-description: Jekyll Theme Minimal Resume
+description: Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Abdul Hakim Jumari
+username: HakimJ
 user_description: Currently enrolled in Bachelor`s Degree. Really passionate about web / mobile Development
 user_title: Mobile/Web Developer & Gadget Enthusiast
 email: jurason96@gmail.com
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
-# gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
