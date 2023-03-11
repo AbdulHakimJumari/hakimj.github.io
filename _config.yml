@@ -1,17 +1,17 @@
 # Site settings
-title: HakimJ / Dev
-description: HakimJ.Dev
+title: HakimJumari / Dev
+description: HakimJumari.Dev
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: HakimJR
-user_description: Currently enrolled Bachelor`s Degree in Computer Science at National University of Malaysia. I love gadget and coding! but i am not considering myself a pro because there`s a long way journey to go. Feel free to email me if you have anything to share with me! Thanks! 
-user_title: Final Year Student / Web Developer / Tech Enthusiast
+username: Abdul Hakim (BANGKIM)
+user_description: Currently a Senior Developer at <?php <a href="#">test </a>?> ?>BerryPay Malaysia. 
+user_title: Senior Developer / Tech Enthusiast
 email: jurason96@gmail.com
-github_username:  AbdulHakimJumari
+github_username:  hakimj96
 
-# Google-analytics
+# Google-analytics`
 google-analytics:
   id: ""
 
